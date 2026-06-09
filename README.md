@@ -1,10 +1,10 @@
- Hi, I'm Adi Lakshamma Bonam
+ # Hi, I'm Adi Lakshamma Bonam
 
 Computer Science Undergraduate (CGPA: 9.24/10) passionate about Artificial Intelligence, Machine Learning, and Research-Driven Software Development.
 
 I am particularly interested in Large Language Models, Transformer Interpretability, Explainable AI, and Scientific Reproducibility. My work focuses on building reproducible AI systems, evaluating model behavior, and translating research ideas into practical implementations.
 
- Research Interests
+## Research Interests
 
 - Large Language Models (LLMs)
 - Transformer Interpretability
@@ -21,7 +21,7 @@ I am particularly interested in Large Language Models, Transformer Interpretabil
 - Reproducing Machine Learning Research
 - Building Research-Oriented AI Tools
 
- Technical Skills
+ ## Technical Skills
 
 **Languages:** Python, Java, SQL, JavaScript
 
